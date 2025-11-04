@@ -5,6 +5,7 @@ print ("3. PUT")
 print ("4. DELETE")
 print ("5. SALIR")
 opc = int(input("Escoja la opcion que desea : "))
+print (opc)
 
 while (opc != 5):
     match opc:
